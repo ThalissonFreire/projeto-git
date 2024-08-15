@@ -1,3 +1,5 @@
-# Projeto Git
+Este é um repositorio de aprends
 
-Este é um repositório de teste para o aprendizado de Git.
+## Tecnologias utilizadas
+- Git
+- GitHub
